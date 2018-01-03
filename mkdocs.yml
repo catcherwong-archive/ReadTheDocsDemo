@@ -1,0 +1,7 @@
+site_name: ReadTheDocsDemo Docs
+theme: readthedocs
+repo_url: https://github.com/catcherwong-archive/ReadTheDocsDemo
+
+pages:
+- Introduction: index.md
+- Quickstart: quickstart.md
